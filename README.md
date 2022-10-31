@@ -25,4 +25,4 @@ Client Retrieval:
    
    172.5
    
-   ![Sequence Diagram](/assets/images/"CS361 Microservice".png)
+   ![Sequence Diagram](/assets/images/CS361-Microservice.png)
