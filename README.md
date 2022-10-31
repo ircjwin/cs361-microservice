@@ -24,5 +24,7 @@ Client Retrieval:
    An example response would look like this:
    
    172.5
-   
-   ![Sequence Diagram](/assets/images/CS361-Microservice.png)
+
+<p>
+    <img src="/assets/images/Diagram.jpg" width="1000" height="400" />
+</p>
